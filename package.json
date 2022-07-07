@@ -13,7 +13,7 @@
     "emoji-mart-vue": "^2.6.6",
     "firebase": "^7.15.1",
     "gravatar": "^1.8.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "nprogress": "^0.2.0",
     "tiptap": "^1.27.1",
     "tiptap-extensions": "^1.29.1",
